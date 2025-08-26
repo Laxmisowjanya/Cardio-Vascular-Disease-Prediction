@@ -46,11 +46,11 @@ Tuned hyperparameters to improve performance.
 
 Top Risk Factors Identified:
 
-Systolic Blood Pressure
+- Systolic Blood Pressure
 
-Age
+- Age
 
-Cholesterol Levels
+- Cholesterol Levels
 
 Best Model: Logistic Regression (slightly better than Decision Tree and Random Forest).
 
@@ -58,19 +58,19 @@ Performance: All models gave similar results, with ROC-AUC around 0.78.
 
 **Tools & Libraries Used**
 
-Python
+- Python
 
-Scikit-learn
+- Scikit-learn
 
-Matplotlib
+- Matplotlib
 
-Pandas & NumPy
+- Pandas & NumPy
 
-Google Colab
+- Google Colab
 
 **Dataset**
 
-Source: Cardiovascular Disease dataset - kaggle.com
+- Source: [Cardiovascular Disease Dataset on Kaggle](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset)
 
 **Conclusion**
 
